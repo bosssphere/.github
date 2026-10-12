@@ -1,0 +1,2 @@
+# .github
+BossSphere organization profile
